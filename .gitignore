@@ -13,3 +13,4 @@ media
 myvenv/
 migrations/
 my_settings.py
+secrets.json
